@@ -1,3 +1,4 @@
-img-miniatura {
-     width:100px
-}
+img.redimension {
+    width:200px;
+    height:75px;
+  }
