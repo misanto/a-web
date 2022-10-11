@@ -1,7 +1,7 @@
 table,
 th,
 td {
-    border: 25px solid black;
+    border: 1px solid black;
 }
 
 .center {
@@ -13,7 +13,7 @@ body {
 }
 
 .caja {
-    border: 1px solid #cccc
+    border: 1px solid rgba(0, 0, 0, 0.8)
     background-color: #f5f5dc
     font-family: "courier new", courier , new 
     font-weight: bold;
