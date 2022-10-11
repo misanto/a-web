@@ -7,3 +7,20 @@ td {
 .center {
     text-align: center;
 }
+
+body {
+    background-color: #f5f5dc
+}
+
+.caja {
+    border: 1px solid #cccc
+    background-color: #f5f5dc
+    font-family: "courier new", courier , new 
+    font-weight: bold;
+    whidth: 120px;
+    height: 120px;
+    text-alingn: center;
+    margin: 5px;
+
+
+}
