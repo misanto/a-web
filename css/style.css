@@ -8,7 +8,6 @@ td {
     text-align: center;
 }
 
-th, td, 
-.Serveis {
-    background-color: brown;
+tr:nth-of-type(1) > th {
+    background-color: aquamarine;
 }
