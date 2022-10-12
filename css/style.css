@@ -8,8 +8,6 @@ td {
     text-align: center;
 }
 
-table,
-th,
-.EIE {
-    background-color: solid aquamarine;
+td {
+    background-color: brown;
 }
