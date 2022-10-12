@@ -8,6 +8,12 @@ td {
     text-align: center;
 }
 
-.Serveis {
-    background-color: solid aquamarine;
+table,
+th,
+td {
+    background-color: aquamarine;
+}
+
+.center {
+    text-align: center;
 }
