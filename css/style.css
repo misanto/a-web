@@ -8,6 +8,7 @@ td {
     text-align: center;
 }
 
-th, td, .Serveis{
+th, td, 
+.Serveis {
     background-color: brown;
 }
