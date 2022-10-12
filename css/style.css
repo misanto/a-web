@@ -147,3 +147,10 @@ body > table:nth-child(1) > thead:nth-child(1) > tr:nth-child(2) > td:nth-child(
     background-color: aqua;
 }
 
+body > table:nth-child(1) > thead:nth-child(1) > tr:nth-child(1) > td:nth-child(2) {
+    background-color: aqua;
+}
+
+body > table:nth-child(1) > thead:nth-child(1) > tr:nth-child(1) > td:nth-child(1) {
+    background-color: aqua;
+}
