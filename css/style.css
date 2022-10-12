@@ -13,6 +13,8 @@ body,
 table, 
 tbody, 
 tr, 
-td {
-    background-color: aquamarine;
+td,
+.EIE {
+    background-color: bisque;
 }
+    
