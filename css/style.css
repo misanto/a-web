@@ -8,6 +8,7 @@ td {
     text-align: center;
 }
 
-th {
+th,
+td {
     background-color: brown;
 }
