@@ -10,10 +10,6 @@ td {
 
 table,
 th,
-td {
+.EIE {
     background-color: aquamarine;
-}
-
-.center {
-    text-align: center;
 }
