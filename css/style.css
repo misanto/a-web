@@ -8,7 +8,11 @@ td {
     text-align: center;
 }
 
-body > table:nth-child(1) > tbody:nth-child(2) > tr:nth-child(3) > td:nth-child(2) {
+html, 
+body, 
+table, 
+tbody, 
+tr, 
+td {
     background-color: aquamarine;
-
 }
