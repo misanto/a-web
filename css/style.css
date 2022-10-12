@@ -8,11 +8,8 @@ td {
     text-align: center;
 }
 
-html, 
-body, 
-table, 
-tbody, 
-tr, 
-td {
+html {
     background-color: white;
 }
+
+   
