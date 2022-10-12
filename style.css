@@ -8,24 +8,8 @@ td {
     text-align: center;
 }
 
-body {
-    background-color: #ff7e7e
-}
-.flex-container
 
 
-.caja {
-    border: 1px solid rgba(0, 0, 0, 0.8)
-    background-color: #f5f5dc
-    font-family: "courier new", courier , new 
-    font-weight: bold;
-    whidth: 120px;
-    height: 120px;
-    text-alingn: center;
-    margin: 5px;
-
-
-}
 
 .serveis {
     background-color: #ff7e7e;
