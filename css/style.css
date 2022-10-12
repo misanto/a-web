@@ -21,79 +21,98 @@ body > table:nth-child(1) > tbody:nth-child(2) > tr:nth-child(7) > td:nth-child(
 
 body > table:nth-child(1) > tbody:nth-child(2) > tr:nth-child(7) > td:nth-child(2) {
     background-color: aquamarine;
+    color: blue;
 }
 
 body > table:nth-child(1) > tbody:nth-child(2) > tr:nth-child(1) > td:nth-child(2) {
     background-color: blue;
+    color: aquamarine;
 }
 
 body > table:nth-child(1) > tbody:nth-child(2) > tr:nth-child(1) > td:nth-child(3) {
     background-color: brown;
+    color: antiquewhite;
 }
 
 
 body > table:nth-child(1) > tbody:nth-child(2) > tr:nth-child(1) > td:nth-child(4) {
     background-color: blue;
+    color: aquamarine;
 }
 
 body > table:nth-child(1) > tbody:nth-child(2) > tr:nth-child(1) > td:nth-child(5) {
     background-color: blueviolet;
+    color: brown;
 }
 
 body > table:nth-child(1) > tbody:nth-child(2) > tr:nth-child(1) > td:nth-child(6) {
     background-color: blue;
+    color: aquamarine;
 }
 
 body > table:nth-child(1) > tbody:nth-child(2) > tr:nth-child(3) > td:nth-child(2) {
     background-color: greenyellow;
+    color: blueviolet;
 }
 
 body > table:nth-child(1) > tbody:nth-child(2) > tr:nth-child(6) > td:nth-child(2) {
     background-color: greenyellow;
+    color: blueviolet;
 }
 
 body > table:nth-child(1) > tbody:nth-child(2) > tr:nth-child(4) > td:nth-child(2) {
     background-color: brown;
+    color: antiquewhite;
 }
 
 body > table:nth-child(1) > tbody:nth-child(2) > tr:nth-child(4) > td:nth-child(3) {
     background-color: blue;
+    color: aquamarine;
 }
 
 body > table:nth-child(1) > tbody:nth-child(2) > tr:nth-child(4) > td:nth-child(4) {
     background-color: blue;
+    color: aquamarine;
 }
 
 body > table:nth-child(1) > tbody:nth-child(2) > tr:nth-child(4) > td:nth-child(5) {
     background-color: blueviolet;
+    color: brown;
 }
 
 body > table:nth-child(1) > tbody:nth-child(2) > tr:nth-child(5) > td:nth-child(2) {
     background-color: blue;
+    color: aquamarine;
 }
 
 body > table:nth-child(1) > tbody:nth-child(2) > tr:nth-child(4) > td:nth-child(6) {
     background-color: blue;
+    color: aquamarine;
 }
 
 body > table:nth-child(1) > tbody:nth-child(2) > tr:nth-child(5) > td:nth-child(3) {
     background-color: blueviolet;
+    color: brown;
 }
 
 body > table:nth-child(1) > tbody:nth-child(2) > tr:nth-child(8) > td:nth-child(2) {
     background-color: blue;
+    color: aquamarine;
 }
 
 body > table:nth-child(1) > tbody:nth-child(2) > tr:nth-child(7) > td:nth-child(4) {
     background-color: blueviolet;
+    color: brown;
 }
 
 body > table:nth-child(1) > tbody:nth-child(2) > tr:nth-child(7) > td:nth-child(5) {
     background-color: brown;
+    color: antiquewhite;
 }
 
 body > table:nth-child(1) > tbody:nth-child(2) > tr:nth-child(7) > td:nth-child(6) {
     background-color: blueviolet;
+    color: brown;
 }
 
 body > table:nth-child(1) > tbody:nth-child(2) > tr:nth-child(1) > td:nth-child(1) {
