@@ -12,6 +12,7 @@ html {
     background-color: white;
 }
 
-EIE {
-    background-color: aqua;
-} 
+
+body > table:nth-child(1) > tbody:nth-child(2) > tr:nth-child(7) > td:nth-child(3) {
+    background-color: aquamarine;
+}
