@@ -13,15 +13,18 @@ html {
 }
 
 
-body > table:nth-child(1) > tbody:nth-child(2) > tr:nth-child(7) > td:nth-child(3){
+body > table:nth-child(1) > tbody:nth-child(2) > tr:nth-child(7) > td:nth-child(3) {
     background-color: aquamarine;
 }
-body > table:nth-child(1) > tbody:nth-child(2) > tr:nth-child(7) > td:nth-child(2){
+
+body > table:nth-child(1) > tbody:nth-child(2) > tr:nth-child(7) > td:nth-child(2) {
     background-color: aquamarine;
 }
-body > table:nth-child(1) > tbody:nth-child(2) > tr:nth-child(1) > td:nth-child(2){
+
+body > table:nth-child(1) > tbody:nth-child(2) > tr:nth-child(1) > td:nth-child(2) {
     background-color: blue;
 }
-body > table:nth-child(1) > tbody:nth-child(2) > tr:nth-child(1) > td:nth-child(3){
+
+body > table:nth-child(1) > tbody:nth-child(2) > tr:nth-child(1) > td:nth-child(3) {
     background-color: brown;
 }
