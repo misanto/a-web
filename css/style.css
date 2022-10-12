@@ -37,3 +37,7 @@ body > table:nth-child(1) > tbody:nth-child(2) > tr:nth-child(1) > td:nth-child(
 body > table:nth-child(1) > tbody:nth-child(2) > tr:nth-child(1) > td:nth-child(5) {
     background-color: blueviolet;
 }
+
+body > table:nth-child(1) > tbody:nth-child(2) > tr:nth-child(1) > td:nth-child(6) {
+    background-color: blue;
+}
