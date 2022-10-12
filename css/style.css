@@ -9,6 +9,7 @@ td {
 }
 
 th,
-td {
+td,
+.Serveis{
     background-color: brown;
 }
