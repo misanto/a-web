@@ -16,6 +16,7 @@ html {
 
 body > table:nth-child(1) > tbody:nth-child(2) > tr:nth-child(7) > td:nth-child(3) {
     background-color: aquamarine;
+    color: blue;
 }
 
 body > table:nth-child(1) > tbody:nth-child(2) > tr:nth-child(7) > td:nth-child(2) {
