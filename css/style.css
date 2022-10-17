@@ -302,7 +302,7 @@ body > table:nth-child(1) > thead:nth-child(1) > tr:nth-child(1) > td:nth-child(
     background-color:white;
 }
 
-.classes{
+.clases{
     display:flex;
     flex-direction:row;
 }
