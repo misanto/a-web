@@ -1,0 +1,89 @@
+/*----------------------------FLEX HORARI---------------------------------*/
+
+.flex-container-horari{
+    border:1px solid black;
+    padding:20px;
+    display:flex;
+    width:600px;
+    height:400px;
+    background-color: blanchedalmond;
+    flex-wrap: wrap;
+    flex-flow:row;
+}
+
+.Box{
+    border:1px solid black;
+    text-align:center;
+}
+
+.TitolHorari{
+    line-height:100px;
+    width:100px;
+    height:100px;
+    background-color:rgb(165, 155, 155);
+}
+
+.SMX{
+    line-height:50px;
+    width:500px;
+    height:50px;
+    background-color:wheat;
+}
+
+.container-dies{
+    width:500px;
+    height:50px;
+    display:flex;
+    border: 1px solid black;
+}
+
+.Dies{
+    width: 100px;
+    height: 50px;
+    line-height:50px;
+    background-color: slateblue;
+    display:flex;
+    flex-direction:row;
+}
+
+.Horaflex{
+    width: 100px;
+    height: 25px;
+    line-height: 25px;
+    background-color:antiquewhite;
+    display:flex;
+    flex-direction:row;
+    border:1px solid black;
+}
+
+.Container-hora{
+    display:flex;
+    flex-direction:column;
+    border:1px solid black;
+    height:25px;
+    width:100px;
+    line-height:25px;
+}
+
+.c2{
+    height: 50px;
+    line-height:50px;
+    width:100px;
+}
+
+.c1{
+    height: 25px;
+    line-height:25px;
+    width:100px;
+}
+
+.patiflex{
+    height: 25px;
+    width: 500px;
+    background-color:white;
+}
+
+.clases{
+    display:flex;
+    flex-direction:row;
+}
