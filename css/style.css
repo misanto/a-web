@@ -215,3 +215,14 @@ body > table:nth-child(1) > thead:nth-child(1) > tr:nth-child(1) > td:nth-child(
     color: hotpink;
     border-color: lawngreen;
 }
+
+.flex container horari{
+    border:1px solid black
+    padding: 20px;
+    display:flex;
+    width:600px;
+    height:400px;
+    background-color: blanchedalmond;
+    flex-wrap: wrap;
+    flex-flow:row;
+}
