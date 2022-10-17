@@ -239,6 +239,10 @@ body > table:nth-child(1) > thead:nth-child(1) > tr:nth-child(1) > td:nth-child(
     background-color:cyan;
 }
 
+.horari{
+    width: 100px
+    
+}
 .SMX{
     line height:50px;
     width:500px;
