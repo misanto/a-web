@@ -6,7 +6,7 @@
     display:flex;
     width:600px;
     height:400px;
-    background-color: white;
+    background-color: rgb(94, 87, 87);
     flex-wrap: wrap;
     flex-flow:row;
 }
